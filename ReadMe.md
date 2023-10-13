@@ -5,7 +5,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Crakzzy&icon=7&color=11)](https://visitcount.itsvg.in)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Crakzzy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 # 📊 GitHub Stats:
