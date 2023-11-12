@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hello! I'm Martin, a passionate 3rd grade high school student with a strong interest in web development. My toolset includes JavaScript, TypeScript, SQL, React, HTML, and CSS. While I'm still learning and growing, I'm eager to dive into open-source projects and lend a hand where possible. My goal is to create tools that make a difference, helping people solve problems, save time, and be more productive.
+Hello! I'm Martin, a passionate 3rd grade high school student with a strong interest in software development. My toolset includes JavaScript, TypeScript, SQL, React, HTML, and CSS. While I'm still learning and growing, I'm eager to dive into open-source projects and lend a hand where possible. My goal is to create tools that make a difference, helping people solve problems, save time, and be more productive.
 
 *The more knowledge you have about different aspects of technology, the more versatile and valuable you become.*
 <br><br>🔭 I’m currently working on Full-Stack Web Application<br>👯 I’m looking to collaborate on beginner projects<br>🌱 I’m currently learning JavaScript, TypeScript, React, Kotlin, MicroPython <br/> 💬 Ask me anything about windows computer optimizations and performance tweaks<br/>
