@@ -5,6 +5,8 @@ Hello! I'm Martin, a passionate 4rd grade high school student with a strong inte
 *The more knowledge you have about different aspects of technology, the more versatile and valuable you become.*
 <br><br>🔭 I’m currently working on Full-Stack Web Application<br>👯 I’m looking to collaborate on beginner projects<br>🌱 I’m currently learning JavaScript, TypeScript, React, Kotlin, MicroPython <br/> 💬 Ask me anything about windows computer optimizations and performance tweaks<br/>
 
+[![wakatime](https://wakatime.com/badge/user/f69ea322-51a0-4937-b93e-8e6b64d41623.svg)](https://wakatime.com/@f69ea322-51a0-4937-b93e-8e6b64d41623)
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__martin.v__)
 
 [![](https://visitcount.itsvg.in/api?id=Crakzzy&icon=7&color=11)](https://visitcount.itsvg.in)
